@@ -1,0 +1,1012 @@
+
+
+/* ------ XX LARGE DEVICE ------- */
+
+@media (min-width: 1400px) {
+
+    .banner-image .images-box-three img {
+        width: 239px;
+        height: 178px;
+    }
+}
+
+/* ------ EXTRA LARGE DEVICE ------- */
+
+@media (min-width: 1200px) and (max-width: 1399.99px) {
+    
+    /* Banner Part Responsive */
+
+    .banner-image .images-box-three {
+        top: 618px;
+        left: 63%;
+    }
+
+    /* Solution part responsive */
+
+
+    .solution-left h2 {
+        font-size: 49px;
+    }
+
+    /* Price part responsive */
+
+    .price-list ul li a span {
+        font-size: 16px;
+    }
+
+    .price-details {
+        padding: 20px 20px;
+    }
+
+
+    /* subscribe part responsive */
+
+    .subscribe-input input {
+        width: 100%;
+    }
+
+    .subscribe-input {
+        text-align: center;
+    }
+
+    .subscribe-input button {
+        margin-top: 30px;
+    }
+
+}
+
+/* ------ LARGE DEVICE ------- */
+
+@media (min-width: 992px) and (max-width: 1199.99px) {
+
+    /* navbar part responsive */
+
+    .navbar .nav-item {
+        margin: 0 -10px;
+    }
+    
+    /* Banner Part Responsive */
+
+    .banner-image .images-box-one {
+        top: 387px;
+        left: -56px;
+    }
+
+    .banner-input {
+        max-width: 467px;
+    }
+
+    .banner-image .images-box-one img {
+        width: 250px;
+        height: 233px;
+    }
+
+    .banner-image .images-box-three img {
+        width: 181px;
+        height: 134px;
+    }
+
+    .banner-image .images-box-three {
+        top: 569px;
+        left: 54%;
+    }
+
+    .banner-image .images-box-two img {
+        width: 220px;
+        height: 226px;
+    }
+
+    .banner-image .images-box-two {
+        top: 292px;
+        left: 28%;
+    }
+    
+    .banner-heading h1 {
+        font-size: 56px;
+        line-height: 76px;
+        padding-top: 150px;
+        text-align: left;
+    }
+
+    .brand-logo img {
+        width: 100%;
+    }
+
+    /* Solution part responsive */
+
+    #solution {
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+
+    .solution-left h2 {
+        font-size: 56px;
+        line-height: 78px;
+        text-align: left;
+    }
+
+    .solution-right p {
+        font-size: 18px;
+        line-height: 36px;
+        margin-left: 10px;
+    }
+
+    .solution-box {
+        margin-top: 20px;
+    }
+
+    .solution-head h5 {
+        font-size: 19px;
+        line-height: 22px;
+    }
+    
+    .solution-details span a {
+        font-size: 16px;
+    }
+
+    .solution-details p {
+        font-size: 16px;
+    }
+
+    .solution-box {
+        padding: 25px 19px 25px 26px;
+    }
+
+    .s-box {
+        margin-left: 0;
+    }
+
+    /* task part responsive */
+
+
+    .task-image {
+        left: -49%;
+    }
+
+    /* messy part responsive */
+
+    .messy-heading {
+        margin-left: 0;
+    }
+
+    .messy-heading h2 {
+        font-size: 56px;
+        line-height: 78px;
+    }
+
+    /* Price part responsive */
+
+    .price-list ul li a span {
+        font-size: 16px;
+    }
+
+    .price-details {
+        padding: 20px 20px;
+    }
+
+
+    /* subscribe part responsive */
+
+    .subscribe-input input {
+        width: 100%;
+    }
+
+    .subscribe-input {
+        text-align: center;
+    }
+
+    .subscribe-input button {
+        margin-top: 30px;
+    }
+
+}
+
+/* ------ MIDIUM DEVICE ------- */
+
+@media (min-width: 768px) and (max-width: 991.99px) {
+    /* navbar part responsive */
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler i {
+        color: #c9c8c8;
+    }
+    
+    #navbarSupportedContent {
+        background-color: #6a55ea;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 15px;
+        border: 1px solid rgb(188, 187, 187);
+    }
+
+    .contact-btn {
+        padding: 12px 65px;
+        background-color: #8573fa;
+        margin-left: 13%;
+        pointer-events: none;
+        border: none;
+    }
+    
+    /* Banner Part Responsive */
+    
+    .banner-heading h1 {
+        font-size: 56px;
+        line-height: 76px;
+        padding-top: 150px;
+        text-align: left;
+    }
+
+    /* Solution part responsive */
+
+    #solution {
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+
+    .solution-left h2 {
+        font-size: 56px;
+        line-height: 78px;
+        text-align: left;
+    }
+
+    .solution-right p {
+        font-size: 18px;
+        line-height: 36px;
+        margin-left: 10px;
+    }
+
+    .solution-box {
+        margin-top: 20px;
+    }
+
+    .solution-head h5 {
+        font-size: 19px;
+        line-height: 22px;
+    }
+    
+    .solution-details span a {
+        font-size: 16px;
+    }
+
+    .solution-details p {
+        font-size: 16px;
+    }
+
+    .solution-box {
+        padding: 25px 19px 25px 26px;
+    }
+
+    .s-box {
+        margin-left: 0;
+    }
+
+    /* task part responsive */
+
+    #task {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .task-heading h2 {
+        font-size: 56px;
+        line-height: 78px;
+        margin-top: 100%;
+    }
+    
+    .task-heading {
+        padding-top: 0;
+        padding-bottom: 0;
+        margin-left: 0;
+    }
+
+    .task-heading p {
+        padding-right: 0;
+    }
+
+    .messy-tab .nav-pills {
+        justify-content: center;
+        align-items: center;
+        display: block;
+    }
+
+    .nav-pills .nav-item .nav-link {
+        margin-top: 20px;
+    }
+
+    /* messy part responsive */
+
+    .messy-heading {
+        margin-left: 0;
+    }
+
+    .messy-heading h2 {
+        font-size: 56px;
+        line-height: 78px;
+        margin-top: 60px;
+    }
+
+    /* Price part responsive */
+
+    #price {
+        padding-top: 0;
+        padding-bottom: 110px;
+    }
+
+    .price-heading h2 {
+        font-size: 56px;
+        line-height: 78px;
+    }
+
+    .price-details {
+        padding: 80px 80px;
+        margin-top: 50px;
+        pointer-events: none;
+    }
+
+    .price-list ul li a span {
+        font-size: 20px;
+    }
+
+    .price-details.active {
+        transform: translateY(0);
+    }
+
+
+    /* count part responsive */
+
+    .count-border::after {
+        left: 100%;
+    }
+
+    .count-box {
+        justify-content: center;
+    }
+
+    /* team part responsive */
+
+    #team {
+        padding-top: 0;
+        padding-bottom: 250px;
+    }
+
+    .team-area {
+        text-align: center;
+    }
+
+    .team-social ul {
+        justify-content: center;
+    }
+
+    .team-arrow ul {
+        justify-content: center;
+    }
+
+    .team-gallery {
+        margin-left: -113px;
+    }
+
+    /* subscribe part responsive */
+
+    #subscribe {
+        padding-top: 260px;
+        padding-bottom: 110px;
+    }
+
+    .subscribe-input input {
+        width: 100%;
+    }
+
+    .subscribe-input {
+        text-align: center;
+    }
+
+    .subscribe-input button {
+        margin-top: 30px;
+    }
+
+    /* footer part responsive */
+
+    #footer {
+        padding-top: 60px;
+    }
+
+    .footer-content p {
+        font-size: 18px;
+        padding-right: 0;
+        text-align: center;
+    }
+
+    .footer-head h6 {
+        margin-top: 20px;
+        font-size: 22px;
+    }
+
+    .footer-list ul li {
+        margin-top: 18px;
+    }
+
+    .footer-list ul li a {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .copyright-text p {
+        font-size: 18px;
+    }
+
+}
+
+
+/* ------ SMALL DEVICE ------- */
+
+@media (min-width: 576px) and (max-width: 767.99px) {
+
+    /* navbar part responsive */
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    
+    .navbar-toggler i {
+        color: #ffffff;
+    }
+        
+    #navbarSupportedContent {
+        background-color: #6a55ea;
+    }
+    
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 15px;
+        border: 1px solid rgb(188, 187, 187);
+    }
+    
+    .contact-btn {
+        padding: 12px 65px;
+        background-color: #8573fa;
+        margin-left: 13%;
+        pointer-events: none;
+        border: none;
+    }    
+
+    /* Banner Part Responsive */
+    
+    .banner-heading h1 {
+        font-size: 45px;
+        line-height: 55px;
+        padding-top: 150px;
+        text-align: center;
+    }
+
+    .banner-heading p {
+        font-size: 16px;
+        line-height: 28px;
+        padding-left: 20px;
+        padding-right: 0;
+    }
+
+    .banner-input {
+        max-width: 600px;
+        position: static;
+    }
+
+    .banner-input input {
+        padding: 20px;
+    }
+
+    .banner-input button {
+        position: static;
+        padding: 20px 25px;
+        font-size: 18px;
+        border-radius: 15px;
+        margin-top: 15px;
+    }
+
+    .brand {
+        margin-left: -40px;
+    }
+
+    /* Solution part responsive */
+
+    #solution {
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+
+    .solution-left h2 {
+        font-size: 29px;
+        line-height: 39px;
+        text-align: center;
+    }
+
+    .solution-right p {
+        font-size: 18px;
+        line-height: 36px;
+        margin-left: 10px;
+    }
+
+    .solution-box {
+        margin-top: 20px;
+    }
+
+    .solution-head h5 {
+        font-size: 19px;
+        line-height: 22px;
+    }
+    
+    .solution-details span a {
+        font-size: 16px;
+    }
+
+    .solution-details p {
+        font-size: 16px;
+    }
+
+    .solution-box {
+        padding: 25px 19px 25px 26px;
+    }
+
+    .s-box {
+        margin-left: 0;
+    }
+
+    /* task part responsive */
+
+    #task {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .task-heading h2 {
+        font-size: 31px;
+        line-height: 50px;
+        margin-top: 100%;
+    }
+
+    .task-heading {
+        padding-top: 0;
+        padding-bottom: 0;
+        margin-left: 0;
+    }
+
+    .task-heading p {
+        padding-right: 0;
+    }
+
+    .messy-tab .nav-pills {
+        justify-content: center;
+    }
+
+    .nav-pills .nav-item .nav-link {
+        margin-top: 20px;
+    }
+
+    /* messy part responsive */
+
+    .messy-heading {
+        margin-left: 0;
+    }
+
+    .messy-heading h2 {
+        font-size: 33px;
+        line-height: 40px;
+        margin-top: 30px;
+    }
+
+    /* Price part responsive */
+
+    #price {
+        padding-top: 0;
+        padding-bottom: 110px;
+    }
+
+    .price-heading h2 {
+        font-size: 39px;
+        line-height: 60px;
+    }
+
+    .price-details {
+        padding: 80px 80px;
+        margin-top: 50px;
+        pointer-events: none;
+    }
+
+    .price-list ul li a span {
+        font-size: 20px;
+    }
+
+    .price-details.active {
+        transform: translateY(0);
+    }
+
+
+    /* count part responsive */
+
+    .count-box {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .count-box span {
+        font-size: 16px;
+    }
+
+    .count-border::after {
+        width: 0;
+        height: 0;
+    }
+
+    .count-area p {
+        text-align: center;
+    }
+
+    .count-area h5 {
+        text-align: center;
+    }
+
+    /* footer part responsive */
+
+    #team {
+        padding-top: 0;
+        padding-bottom: 250px;
+    }
+
+    .team-area {
+        text-align: center;
+    }
+
+    .team-social ul {
+        justify-content: center;
+    }
+
+    .team-arrow ul {
+        justify-content: center;
+    }
+
+    .team-gallery {
+        margin-left: -113px;
+    }
+
+    /* subscribe part responsive */
+
+    #subscribe {
+        padding-top: 260px;
+        padding-bottom: 110px;
+    }
+
+    .subscribe-input input {
+        width: 100%;
+    }
+
+    .subscribe-input {
+        text-align: center;
+    }
+
+    .subscribe-input button {
+        margin-top: 30px;
+    }
+    
+    /* footer part responsive */
+
+    #footer {
+        padding-top: 60px;
+    }
+
+    .footer-content p {
+        font-size: 18px;
+        padding-right: 0;
+        text-align: center;
+    }
+
+    .footer-head h6 {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 22px;
+    }
+
+    .footer-list ul li {
+        margin-top: 18px;
+        text-align: center;
+    }
+
+    .footer-list ul li a {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .copyright-text p {
+        font-size: 13px;
+    }
+
+}
+
+
+/* ------ EXTRA SMALL DEVICE ------- */
+
+@media (max-width: 575.99px) {
+
+    
+    
+    /* navbar part responsive */
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler i {
+        color: #ffffff;
+    }
+    
+    #navbarSupportedContent {
+        background-color: #d0caf9;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 15px;
+        border: 1px solid rgb(188, 187, 187);
+    }
+
+    .contact-btn {
+        padding: 12px 65px;
+        background-color: #8573fa;
+        margin-left: 13%;
+        pointer-events: none;
+        border: none;
+    }
+
+    /* Banner Part Responsive */
+    
+    .banner-heading h1 {
+        font-size: 28px;
+        line-height: 38px;
+        padding-top: 150px;
+        text-align: center;
+    }
+
+    .banner-heading p {
+        font-size: 16px;
+        line-height: 28px;
+        padding-left: 20px;
+        padding-right: 0;
+    }
+
+    .banner-input {
+        max-width: 600px;
+        position: static;
+    }
+
+    .banner-input input {
+        padding: 20px;
+    }
+
+    .banner-input button {
+        position: static;
+        padding: 20px 25px;
+        font-size: 18px;
+        border-radius: 15px;
+        margin-top: 15px;
+    }
+
+    .brand {
+        margin-left: -40px;
+    }
+
+    /* Solution part responsive */
+
+    #solution {
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+
+    .solution-left h2 {
+        font-size: 29px;
+        line-height: 39px;
+        text-align: center;
+    }
+
+    .solution-right p {
+        font-size: 18px;
+        line-height: 36px;
+        margin-left: 10px;
+    }
+
+    .solution-box {
+        margin-top: 20px;
+    }
+
+    .solution-head h5 {
+        font-size: 19px;
+        line-height: 22px;
+    }
+    
+    .solution-details span a {
+        font-size: 16px;
+    }
+
+    .solution-details p {
+        font-size: 16px;
+    }
+
+    .solution-box {
+        padding: 25px 19px 25px 26px;
+    }
+
+    .s-box {
+        margin-left: 0;
+    }
+
+    /* task part responsive */
+
+    #task {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .task-heading h2 {
+        font-size: 31px;
+        line-height: 50px;
+    }
+
+    .task-heading {
+        padding-top: 0;
+        padding-bottom: 0;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .task-heading p {
+        padding-right: 0;
+    }
+
+    .messy-tab .nav-pills {
+        display: block;
+        justify-content: center;
+    }
+
+    .nav-pills .nav-item .nav-link {
+        margin-top: 20px;
+    }
+
+    /* messy part responsive */
+
+    .messy-heading {
+	    margin-left: 0;
+	    text-align: center;
+    }
+
+    .messy-heading h2 {
+        font-size: 33px;
+        line-height: 40px;
+        margin-top: 50px;
+    }
+
+    /* Price part responsive */
+
+    #price {
+        padding-top: 0;
+        padding-bottom: 110px;
+    }
+
+    .price-heading h2 {
+        font-size: 39px;
+        line-height: 60px;
+    }
+
+    .price-details {
+        padding: 80px 80px;
+        margin-top: 50px;
+        pointer-events: none;
+    }
+
+    .price-list ul li a span {
+        font-size: 18px;
+    }
+
+    .price-details.active {
+        transform: translateY(0);
+    }
+
+
+    /* count part responsive */
+
+    .count-box {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .count-box span {
+        font-size: 16px;
+    }
+
+    .count-border::after {
+        width: 0;
+        height: 0;
+    }
+
+    .count-area p {
+        text-align: center;
+    }
+
+    .count-area h5 {
+        text-align: center;
+    }
+
+    /* footer part responsive */
+
+    #team {
+        padding-top: 0;
+        padding-bottom: 250px;
+    }
+
+    .team-area {
+        text-align: center;
+    }
+
+    .team-social ul {
+        justify-content: center;
+    }
+
+    .team-arrow ul {
+        justify-content: center;
+    }
+
+    .team-gallery {
+        margin-left: -113px;
+    }
+
+    /* subscribe part responsive */
+
+    #subscribe {
+        padding-top: 260px;
+        padding-bottom: 110px;
+    }
+
+    .subscribe-input input {
+        width: 100%;
+    }
+
+    .subscribe-input {
+        text-align: center;
+    }
+
+    .subscribe-input button {
+        margin-top: 30px;
+    }
+
+    /* footer part responsive */
+
+    #footer {
+        padding-top: 60px;
+    }
+    
+    .footer-content p {
+        font-size: 17px;
+        padding-right: 0;
+        text-align: center;
+    }
+    
+    .footer-head h6 {
+        text-align: center;
+        margin-top: 20px;
+    }
+    
+    .footer-list ul li {
+        margin-top: 20px;
+        text-align: center;
+    }
+    
+    .copyright-text p {
+        font-size: 16px;
+    }
+    
+}
+
+
+
+
+
